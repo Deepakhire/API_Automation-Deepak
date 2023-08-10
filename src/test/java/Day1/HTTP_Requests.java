@@ -1,5 +1,4 @@
 package Day1;
-
 import javax.annotation.meta.When;
 
 import org.testng.annotations.Test;
